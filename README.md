@@ -34,4 +34,4 @@ Visualization of insights using charts and graphs
 
 📈 Outcome
 
-The analysis provides clear insights into customer behavior, helping businesses improve customer targeting, optimize product offerings, and increase overall sales.<img width="1092" height="750" alt="snip" src="https://github.com/user-attachments/assets/235a3891-eb3e-426c-8cc7-b29ee611e308" />
+The analysis provides clear insights into customer behavior, helping businesses improve customer targeting, optimize product offerings, and increase overall sales.
